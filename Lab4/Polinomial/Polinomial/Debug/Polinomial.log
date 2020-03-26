@@ -1,0 +1,6 @@
+﻿  Polinom.cpp
+c:\users\nikita\documents\visual studio 2015\projects\polinomial\polinomial\polinom.cpp(94): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\nikita\documents\visual studio 2015\projects\polinomial\polinomial\polinom.cpp(145): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikita\documents\visual studio 2015\projects\polinomial\polinomial\polinom.cpp(150): warning C4018: <: несоответствие типов со знаком и без знака
+  Polinomial.vcxproj -> c:\users\nikita\documents\visual studio 2015\Projects\Polinomial\Debug\Polinomial.exe
+  Polinomial.vcxproj -> c:\users\nikita\documents\visual studio 2015\Projects\Polinomial\Debug\Polinomial.pdb (Partial PDB)
